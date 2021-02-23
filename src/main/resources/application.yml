@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronautCacheRxExecution
+
+  caches:
+    bar-cache:
+      maximumSize: 20
